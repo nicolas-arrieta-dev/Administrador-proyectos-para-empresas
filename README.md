@@ -294,8 +294,3 @@ Ingeniero de Sistemas | Software Developer
 GitHub: [nicolas-arrieta-dev](https://github.com/nicolas-arrieta-dev)
 
 Este proyecto fue desarrollado con fines educativos y como proyecto de demostración para aplicar conceptos de desarrollo web, APIs, bases de datos y lógica de negocio.
----
-
-# Licencia
-
-Este proyecto fue desarrollado con fines educativos y como proyecto de demostración para aplicar conceptos de desarrollo web, APIs, bases de datos y lógica de negocio.
