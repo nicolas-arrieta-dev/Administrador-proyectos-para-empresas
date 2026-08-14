@@ -294,3 +294,9 @@ Ingeniero de Sistemas | Software Developer
 GitHub: [nicolas-arrieta-dev](https://github.com/nicolas-arrieta-dev)
 
 Este proyecto fue desarrollado con fines educativos y como proyecto de demostración para aplicar conceptos de desarrollo web, APIs, bases de datos y lógica de negocio.
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/d5242b1e-c523-4151-9723-bee64c454f9a" />
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/62c92375-325b-468f-ad45-b41ebc674e86" />
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/284434ff-d2c8-44ed-8c2a-026aadf0fb56" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/2e6dc8b7-79d7-4c67-af57-6000fb546126" />
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/6f11e546-2a83-473c-aba8-a068619d44d5" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/3bb35308-15fa-4d20-9bbf-c92dd9d56013" />
